@@ -1,6 +1,6 @@
 # Herramientas para Desarrolladores Web
 
-Hey!!! Hola Crayola!! en este proyecto encontraras algunas herramientas para Desarrollo de software asi como guias de uso, tutoriales y documentacion para aprender a dominarlas!! 
+Hey!!! Hola Crayola!! ¡En este proyecto encontrarás algunas herramientas para Desarrollo de software así como guías de uso, tutoriales y documentación para aprender a dominarlas!!
 
 ### Contribuye
 
